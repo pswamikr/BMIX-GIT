@@ -1,0 +1,8 @@
+applications:
+- host: ucdTest
+  disk: 1024M
+  name: ucdTest
+  path: webStarterApp.war
+  domain: w3ibm.mybluemix.net
+  mem: 512M
+  instances: 1
